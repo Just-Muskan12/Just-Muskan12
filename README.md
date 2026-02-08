@@ -12,6 +12,7 @@ I enjoy building applications that connect Java with databases and am currently 
 ### Backend
 - Core Java
 - JDBC
+- Hibernate
 - SQL
 - PostgreSQL
 - Maven
