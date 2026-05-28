@@ -1,6 +1,6 @@
-Hi 👋, I'm Muskan Sharma
+# Hi 👋, I'm Muskan Sharma
 
-Java Full Stack Developer | Ex-Software Engineer Intern @ Robowaves
+## Java Full Stack Developer | Ex-Software Engineer Intern @ Robowaves
 
 Passionate Software Engineer with hands-on experience in developing scalable full-stack applications using Java, Spring Boot, React.js, REST APIs, MySQL, and PostgreSQL. Experienced in building AI-powered solutions, secure backend systems, and modern web applications with a strong focus on clean code, performance optimization, and software engineering best practices.
 
