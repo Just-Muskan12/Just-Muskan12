@@ -104,7 +104,7 @@ A full-stack AI application built using Spring Boot, React.js, and Gemini API th
 📫 Connect With Me
 
 - 📧 Email: muskansharma8051@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/muskan-sharma-59ab65310
+- 💼 LinkedIn:https://www.linkedin.com/in/muskan-sharma-59ab65310
 - 💻 GitHub: https://github.com/Just-Muskan12
 
 ---
